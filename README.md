@@ -33,5 +33,5 @@ The Weather Dashboard is an interactive project that integrates a live Weather A
 ---
 
 **Acknowledgments**
-Weather data provided by weatherapi.com.
-Visualization powered by Power BI.
+- Weather data provided by weatherapi.com.
+- Visualization powered by Power BI.
